@@ -1,1 +1,1 @@
-git-fit --start-date "2017/05/05" --end-date "2023/09/16" --commits-per-day "0,3"
+npx fake-git-history --startDate "2017/05/05" --endDate "2023/09/16" --commitsPerDay "0,3" --excludeDays "Saturday,Sunday"
