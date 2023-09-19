@@ -1,0 +1,1 @@
+git-fit --start-date "2017/05/05" --end-date "2023/09/16" --commits-per-day "0,3"
